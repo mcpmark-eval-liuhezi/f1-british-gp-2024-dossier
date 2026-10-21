@@ -122,13 +122,13 @@ P2, behind pole-sitting teammate George Russell.
 | 10 | 1:31.515 | 2 | | 25 | 1:34.988 | 3 |
 | 11 | 1:31.487 | 2 | | 26 | 1:40.792 | 3 |
 | 12 | 1:31.563 | 2 | | 27 | 1:45.183 | 2 |
-| 13 | 1:31.881 |  crossover | 28 | 2:00.866 | 3 |
+| 13 | 1:31.881 | 2 | | 28 | 2:00.866 | 3 |
 | 14 | 1:31.609 | 2 | | 29 | 1:40.420 | 2 |
 | 15 | 1:31.563 | 2 | | 30 | 1:40.467 | 2 |
 
-**Fastest lap: 1:29.438 on lap 45** (average speed 237.120 kph) — ranked 5th fastest of the race. *Note: the overall fastest lap belonged to Carlos Sainz (1:28.293, lap 52), but Hamilton's 1:29.438 was the quickest lap among the podium finishers... actually, narrowly: Verstappen's 1:28.952 (L48) was quicker. Hamilton's 1:29.438 on lap 45 was his personal best of the race and the moment he set about consolidating the lead after the final stops.*
+**Hamilton's fastest lap: 1:29.438 on lap 45** (average speed 237.120 kph), ranked 5th fastest of the whole race — his personal best of the afternoon, set in the final stint on fresh rubber as he consolidated the lead. (The overall fastest lap went to Sainz, 1:28.293 on lap 52; Verstappen's 1:28.952 on lap 48 and Norris's 1:29.262 on lap 43 were also fractionally quicker than Hamilton's best, but his was the lap that mattered: it came with the race lead in hand.)
 
-*Interpreting the pattern:* Hamilton ran second behind Russell in the opening stint, holding steady low-1:31s. As the rain passed and the track came back to him, he hit the front — readings show him P1 from lap 18. There was a turbulent mid-race window during the shower's aftermath and the first pit cycle (laps 18–30 include in-lap/out-lap effects and track-position changes: P3 on laps 20–26, then back to P1/P2), before he took firm control. His race lap progression: steady 1:31s opening stint → weather/crossover laps in the 1:33–1:40s+ (with the 2:00.866 on lap 28 reflecting a heavy rain-affected lap) → and then low 1:29s on fresh rubber in the closing stint, culminating in the 1:29.438 on lap 45.
+**Interpreting the pattern:** Hamilton ran second behind Russell in the opening stint, holding steady low-1:31s. As the rain passed and the track came back to him, he hit the front — readings show him P1 from lap 18. There was a turbulent mid-race window during the shower's aftermath and the first pit cycle (laps 18–30 include in-lap/out-lap effects and track-position changes: P3 on laps 20–26, then back to P1/P2), before he took firm control. His race lap progression: steady 1:31s opening stint → weather/crossover laps in the 1:33–1:40s+ (with the 2:00.866 on lap 28 reflecting a rain-affected lap around his first stop) → and then low 1:29s on fresh rubber in the closing stint, culminating in the 1:29.438 on lap 45.
 
 ### Pit stops (session key 9558, car #44)
 
